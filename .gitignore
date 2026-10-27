@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+npm-debug.log*
+.DS_Store
+
+# Local test audio only (a commercial song); this repo is public.
+# Delete this line once public/audio/nasheed.mp3 is your own nasheed and you want it deployed.
+public/audio/nasheed.mp3

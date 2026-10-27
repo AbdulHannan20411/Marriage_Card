@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 556" width="370" height="556">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a1c2f"/><stop offset="1" stop-color="#3a0a12"/></linearGradient>
+<radialGradient id="r" cx=".5" cy=".38" r=".6"><stop offset="0" stop-color="#ffe9b8" stop-opacity=".28"/><stop offset="1" stop-color="#ffe9b8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="370" height="556" fill="url(#g)"/>
+<rect width="370" height="556" fill="url(#r)"/>
+<g fill="#e2c070" fill-opacity=".2" stroke="#e2c070" stroke-opacity=".7" stroke-width="1.6">
+<circle cx="140" cy="222" r="36"/>
+<path d="M58 556 C58 430 84 342 140 330 C196 342 222 430 222 556Z"/>
+<circle cx="236" cy="246" r="32"/>
+<path d="M164 556 C164 452 190 366 236 356 C282 366 308 452 308 556Z"/>
+</g>
+<rect x="34" y="62" width="302" height="470" rx="150" fill="none" stroke="#e2c070" stroke-opacity=".5" stroke-width="1.4" stroke-dasharray="7 7"/>
+<text x="185" y="478" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="25" fill="#f3dc9a">Your couple photo</text>
+<text x="185" y="505" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="14" fill="#e2c070" fill-opacity=".8" letter-spacing="1.5">PORTRAIT, FACES NEAR THE TOP</text>
+</svg>
